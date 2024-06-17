@@ -12,6 +12,7 @@
 
 ### Project Overview 
 ---
+![image](https://github.com/Ivikorazmadze/Hotel_Revenue/assets/115480932/d355fe16-e6d2-49c6-a35f-4efbcc35f257)
 
 The report is to show Revenue according the nights spent in a period of 3 years shared by City and Resort hotels along with insights about the sum of car parkings neccessity. 
 
@@ -39,7 +40,7 @@ below are mentioned steps to prepare the data for visualisation
 
 5) Exporting From MySQL the table and import to Power BI
 
-### Explanatory Data Analysis
+### Explaratory Data Analysis
 ---
 
 EDA involved in the following report to answer key questions, such as:
