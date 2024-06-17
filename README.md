@@ -12,7 +12,8 @@
 
 ### Project Overview 
 ---
-![image](https://github.com/Ivikorazmadze/Hotel_Revenue/assets/115480932/d355fe16-e6d2-49c6-a35f-4efbcc35f257)
+
+<img width="601" alt="Project overview" src="https://github.com/Ivikorazmadze/Hotel_Revenue/assets/115480932/d48256c5-47b7-4465-b8b6-9440f0400046">
 
 The report is to show Revenue according the nights spent in a period of 3 years shared by City and Resort hotels along with insights about the sum of car parkings neccessity. 
 
